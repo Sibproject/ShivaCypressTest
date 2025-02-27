@@ -1,0 +1,19 @@
+{
+  "name": "cypress_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shiva Raj Wagle",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.1.0",
+    "process": "^0.11.10"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1",
+    "mocha": "^11.1.0"
+  }
+}
